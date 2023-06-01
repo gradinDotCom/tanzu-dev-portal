@@ -6,6 +6,7 @@ menu:
   main:
     parent: outcomes
     weight: 1
+hide_newsletter: true
 ---
 
 VMware Tanzu is designed from the ground-up using the Well-Architected Framework which can be categorized by the following architectural pillars:
