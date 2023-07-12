@@ -236,27 +236,30 @@ body.blog #contact .mktoForm select {
   }
 }
 #hero.guides-hero {
-   background-image: url({{ "images/backgrounds/background-guides-light.svg" | relURL }}) !important;
+   background-image: url('{{ "images/backgrounds/background-guides-light.svg" | relURL }}') !important;
+ }
+ #hero.workshops-hero {
+    background-image: url('{{ "images/backgrounds/background-community-light.svg" | relURL }}') !important;
  }
  #hero.outcomes-hero {
-   background-image: url({{ "images/backgrounds/background-patterns-light.svg" | relURL }}) !important;
+   background-image: url('{{ "images/backgrounds/background-patterns-light.svg" | relURL }}') !important;
  }
  #hero.samples-hero {
-   background-image: url({{ "images/backgrounds/background-samples-light.svg" | relURL }}) !important;
+   background-image: url('{{ "images/backgrounds/background-samples-light.svg" | relURL }}') !important;
  }
  #hero.videos-hero {
-   background-image: url({{ "images/backgrounds/background-video-light.svg" | relURL }}) !important;
+   background-image: url('{{ "images/backgrounds/background-video-light.svg" | relURL }}') !important;
  }
  #hero.data-hero,
  #hero.community-hero {
-   background-image: url({{ "images/backgrounds/background-community-light.svg" | relURL }}) !important;
+   background-image: url('{{ "images/backgrounds/background-community-light.svg" | relURL }}') !important;
  }
  #hero.practices-hero {
-   background-image: url({{ "images/backgrounds/background-practices-light.svg" | relURL }}) !important;
+   background-image: url('{{ "images/backgrounds/background-practices-light.svg" | relURL }}') !important;
  }
  @media(max-width: 1300px) {
   body #hero.data-hero {
-    background-image: url({{ "images/backgrounds/header-mobile-light.svg" | relURL }}) !important;
+    background-image: url('{{ "images/backgrounds/header-mobile-light.svg" | relURL }}') !important;
   }
  }
 @media(max-width: 991px) {
@@ -266,7 +269,7 @@ body.blog #contact .mktoForm select {
   body #hero.videos-hero,
   body #hero.community-hero,
   body #hero.practices-hero {
-   background-image: url({{ "images/backgrounds/header-mobile-light.svg" | relURL }}) !important;
+   background-image: url('{{ "images/backgrounds/header-mobile-light.svg" | relURL }}') !important;
   }
 }
 
@@ -300,7 +303,6 @@ nav {
         display: none;
     }
 }
-#featured-paths,
 #live-notify .btn {
   background-color: white !important;
 }
@@ -381,7 +383,7 @@ div.aside div.aside-content {
 
 .guide .td-sidebar-nav h5 a:before {
   padding-right: 10px;
-  content: url({{ "images/icons/arrow-left-black.svg" | relURL }}) !important;
+  content: url('{{ "images/icons/arrow-left-black.svg" | relURL }}') !important;
   width: 16px;
   height: 12px;
 }
@@ -396,31 +398,6 @@ div.aside div.aside-content {
 #hero .product-links > .linked-box {
   background: #D9E4EA !important;
 }
-
-#featured-paths .row .learning-path-card {
-  .learning-path-description {
-    color: black !important;
-  }
-  &:nth-child(1) {
-    background: #f4f8fa;
-  }
-  &:nth-child(2) {
-    background: #f0f4f7;
-
-  }
-  &:nth-child(3) {
-    background: #e9edf0;
-
-  }
-  &:nth-child(4) {
-    background: #e6ebee;
-
-  }
-  &:nth-child(5) {
-    background: #e2eaee;
-  }
-}
-
 
 .nav.nav-tabs {
   border-bottom: 2px solid rgba(0, 0, 0, 0.125) !important;

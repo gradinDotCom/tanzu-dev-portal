@@ -355,6 +355,7 @@ CF_API_ENDPOINT_URL
 (CF|cf)(-for-k8s)?
 cfapps
 [Cc]group(s)?
+Chacko
 Chainguard
 Chander
 changeAlertLevel
@@ -731,6 +732,7 @@ EFS
 eg
 eg.
 egoless
+EJBs?
 Ekaterina
 EKS
 Elahn
@@ -1212,6 +1214,7 @@ Jasso
 JavaBean
 JavaBeanAccessorMethodAuthorizer
 JavaBeans
+JavaDoc
 JavaEE
 JavaOne
 [Jj]avascript
@@ -1263,6 +1266,7 @@ jonatan_ivanov
 JOP
 Joram
 Jozi
+JP?QL
 JPA
 JProfiler
 JRE
@@ -1774,6 +1778,7 @@ optionality
 OQL
 orchestrator(s)?
 OrderService
+Oredev
 org(s)?
 ORM(-based)?
 ORM(s)?
@@ -1803,6 +1808,7 @@ Pacak
 Packer
 Packt('s)?
 [Pp]addleboarding
+pageable
 [Pp]agefile
 PagerDuty
 Pairmate
@@ -2209,6 +2215,7 @@ screencaster
 SCS
 SDD
 SDK(s)?
+SDR
 SDS
 seaborn
 Seagate
@@ -2298,12 +2305,14 @@ Snapchat
 SNAPe
 SNI
 Snyk
+Soby
 SolidFire
 solutioning
 Soluto('s)?
 SomeRegion
 SonicDMG
 [Ss]onobuoy
+sortable
 Soumik
 SourceTester
 Sox
@@ -2768,6 +2777,7 @@ Zalando
 ZDNet
 Zenika
 Zhen
+Zhurakousky
 Zino
 [Zz]ipkin
 ZipkinSenderProperties

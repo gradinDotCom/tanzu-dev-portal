@@ -9,11 +9,10 @@ explicit: 'no'
 calendar: true
 guests:
 - Dariusz Jędrzejczyk
-- Rossen Stoyanchev
 hosts:
 - Cora Iberkleid
 twitch: vmwaretanzu
-linktwitchyoutubechannels: 'yes'
+youtube: 6OKS36PSpho
 type: tv-episode
 ---
 

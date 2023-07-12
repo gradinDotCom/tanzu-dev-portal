@@ -295,11 +295,10 @@ body {
       $bright-green 50%,
       rgb(0, 193, 213) 100%
     );
-    height: 200%;
+    height: 100%;
     transition: top .2s;
     position: absolute;
     width: 4px;
-    top: -100%;
     left: 0;
     bottom: 0;
   }
@@ -1576,7 +1575,7 @@ body {
     background-color: #22343c;
 
     .workshop-hero {
-      background-color: $primary;
+      background-color: #fff;
       height: 170px;
       width: 100%;
 
@@ -1619,11 +1618,6 @@ body {
     letter-spacing: 1px;
   }
 
-  body .workshops-hero {
-    background-color: $primary;
-    padding: 50px 0 !important;
-    min-height: 200px !important;
-  }
   body .learningpaths-hero + .td-content {
     margin-top: 2rem;
   }
@@ -2528,8 +2522,8 @@ background: black;
   }
 }
 @media(max-width:1420px) and (min-width: 992px) {
-  main section:not(#featured-paths),
-  .td-main section:not(#featured-paths),
+  main section:not(#home-advocates),
+  .td-main section:not(#home-advocates),
   .section-index,
   .td-content:not(.topic-hero-content),
   .tanzu-tv .td-main > .container > p,
