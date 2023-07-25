@@ -1,6 +1,6 @@
 ---
 title: Reference Architectures
-linkTitle: Reference Archite~1
+linkTitle: Reference Architectures
 description: 'Lines and boxes. Sometimes colors.'
 menu:
     main:
