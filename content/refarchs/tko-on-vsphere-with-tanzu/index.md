@@ -11,10 +11,10 @@ tags:
 title: TKO on vSphere with Tanzu
 ---
 
-{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-preamble.md" markdown="true" >}}
-{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-component-matrix.md" markdown="true" >}}
-{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-components.md" markdown="true" >}}
-{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-storage.md" markdown="true" >}}
-{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-networking.md" markdown="true" >}}
-{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-recommendations.md" markdown="true" >}}
-{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-architecture.md" markdown="true" >}}
+{{< readfile "/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-preamble.md" >}}
+{{< readfile "/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-component-matrix.md" >}}
+{{< readfile "/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-components.md" >}}
+{{< readfile "/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-storage.md" >}}
+{{< readfile "/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-networking.md" >}}
+{{< readfile "/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-recommendations.md" >}}
+{{< readfile "/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-architecture.md" >}}

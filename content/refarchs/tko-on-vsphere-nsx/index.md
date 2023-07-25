@@ -10,6 +10,4 @@ tags:
 title: TKO on vSphere NSX
 ---
 
-# TKO on vSphere with NSX
-
-{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-nsx-preamble.md" markdown="true" >}}
+{{< readfile "/refarchs-include/tko-on-vsphere/tko-on-vsphere-nsx-preamble.md" >}}
