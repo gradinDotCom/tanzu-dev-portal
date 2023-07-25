@@ -1,11 +1,14 @@
 ---
-title: Reference Architecture
-linkTitle: Architecture
+title: Reference Architectures
+linkTitle: Reference Archite~1
 description: 'Lines and boxes. Sometimes colors.'
 menu:
-  main:
-    parent: outcomes
-    weight: 1
+    main:
+        parent: "sections"
+        params:
+            split: right
+            section: type
+        weight: 20
 hide_newsletter: true
 ---
 

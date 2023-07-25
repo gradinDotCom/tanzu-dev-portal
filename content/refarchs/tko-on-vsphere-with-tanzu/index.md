@@ -9,16 +9,12 @@ tags:
 - vSphere
 - Supervisor
 title: TKO on vSphere with Tanzu
-menu:
-  main:
-    parent: outcomes
-    weight: 2
 ---
 
-{{< readfile file="refarchs/include/tko-on-vsphere/tko-on-vsphere-with-tanzu-preamble.md" markdown="true" >}}
-{{< readfile file="refarchs/include/tko-on-vsphere/tko-on-vsphere-with-tanzu-component-matrix.md" markdown="true" >}}
-{{< readfile file="refarchs/include/tko-on-vsphere/tko-on-vsphere-with-tanzu-components.md" markdown="true" >}}
-{{< readfile file="refarchs/include/tko-on-vsphere/tko-on-vsphere-with-tanzu-storage.md" markdown="true" >}}
-{{< readfile file="refarchs/include/tko-on-vsphere/tko-on-vsphere-with-tanzu-networking.md" markdown="true" >}}
-{{< readfile file="refarchs/include/tko-on-vsphere/tko-on-vsphere-with-tanzu-recommendations.md" markdown="true" >}}
-{{< readfile file="refarchs/include/tko-on-vsphere/tko-on-vsphere-with-tanzu-architecture.md" markdown="true" >}}
+{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-preamble.md" markdown="true" >}}
+{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-component-matrix.md" markdown="true" >}}
+{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-components.md" markdown="true" >}}
+{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-storage.md" markdown="true" >}}
+{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-networking.md" markdown="true" >}}
+{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-recommendations.md" markdown="true" >}}
+{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-architecture.md" markdown="true" >}}

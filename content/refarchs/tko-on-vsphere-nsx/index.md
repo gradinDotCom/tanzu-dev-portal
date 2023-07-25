@@ -8,12 +8,8 @@ tags:
 - vSphere
 - NSX
 title: TKO on vSphere NSX
-menu:
-  main:
-    parent: outcomes
-    weight: 1
 ---
 
 # TKO on vSphere with NSX
 
-{{< readfile file="refarchs/include/tko-on-vsphere/tko-on-vsphere-nsx-preamble.md" markdown="true" >}}
+{{< readfile file="/refarchs-include/tko-on-vsphere/tko-on-vsphere-nsx-preamble.md" markdown="true" >}}
