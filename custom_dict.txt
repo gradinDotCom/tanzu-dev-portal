@@ -45,8 +45,8 @@ accessor
 [Aa]ccountabilities
 ACEM
 acknowledgedEvents
-acknowledgement
 Acknowledgement
+acknowledgement
 ACL(s)?
 ActiveDirectory
 ActiveMQ
@@ -127,8 +127,8 @@ App-Config
 AppArmor
 AppD
 AppDev
-AppDomain
 appDomain
+AppDomain
 AppDynamics
 Appel
 appender
@@ -206,8 +206,8 @@ Autofac
 autosave
 [Aa]utoscal(e|ers|er|ing)?
 autowire
-Autowired
 autowired
+Autowired
 autowires
 autowiring
 Aviv
@@ -276,8 +276,8 @@ BookService
 bootcamps
 Booternetes
 [Bb]ootif(ul|y|ying|ied|ication)
-bootRun
 bootrun
+bootRun
 bootup
 Boris
 Boskey
@@ -379,8 +379,8 @@ CIS
 CISOs
 CKtaKhKOo-Y
 classpath
-clearNotifications
 clearnotifications
+clearNotifications
 Cleverley-Prance
 cli
 CLI.
@@ -395,8 +395,8 @@ closeRegion
 CloudConnectors
 CloudController
 CloudEvents
-CloudFlare
 Cloudflare
+CloudFlare
 CloudHealth
 CloudNativeCon
 cloudnativewal
@@ -435,8 +435,8 @@ co-organiser
 [Cc]o[Rr]outines
 Coby
 [Cc]odebase(s)?
-Codefresh
 CodeFresh
+Codefresh
 CodeItLive
 CodeMash
 CodeOne
@@ -562,8 +562,8 @@ datagram
 DataJpaTest
 Datalog
 datapath
-dataset
 DataSet
+dataset
 [Dd]atasource(s)?
 DataStax('s|Examples)?
 dataStoreBytesInUse
@@ -611,12 +611,12 @@ denyAll
 denylist
 Depedency
 dependant
-deployable
 [Dd]eployable
+deployable
 deprioritized
 deps
-[Dd]eserialize
 deserialize
+[Dd]eserialize
 deserializes
 deserializing
 Desgber
@@ -762,8 +762,8 @@ EntryEvent
 EntryEventImpl
 EntryEventImpl's
 entrypoint
-enum
 Enum
+enum
 EnumInfo
 Enums
 [Ee]nv
@@ -819,8 +819,8 @@ fileshare
 [fF]ilesystem
 FileSystemXmlApplicationContext
 Finchley
-FinTech
 fintech
+FinTech
 FIPS(-enabled|-approved)?
 firehose
 firewalling
@@ -848,8 +848,8 @@ FQDN
 FrameLogger
 Frascati-Robinson
 freddygthatsme
-frictionless
 [Ff]rictionless
+frictionless
 [fF]rontend(-green)?
 Frontstage
 Fu
@@ -990,8 +990,8 @@ GrantedAuthoritiesMapper
 GrantedAuthority
 GraphiQL
 graphiql
-GraphQL
 graphql
+GraphQL
 GraphQL(-based)?
 Grasso
 GRE
@@ -1068,8 +1068,8 @@ Homebrew
 homogenous
 horizontally-scalable
 HorizontalPodAutoscaler(s)?
-Hostable
 hostable
+Hostable
 HostEndpoint
 [Hh]ostname(s)?
 hostPath
@@ -1092,8 +1092,8 @@ HttpSession
 HumanOps
 [Hh]ungryman
 Huynh
-HWC
 hwc
+HWC
 HyperKit
 ℹ
 (I|P)aaS
@@ -1152,8 +1152,8 @@ intra-service
 intra-subnet
 Invoker
 io
-IoC
 IOC
+IoC
 IoT
 (IP|ip)(v6|v4|s)?
 (IP|ip)tables
@@ -1235,8 +1235,8 @@ Jelle
 Jenkinsfile
 JEP
 Jernigan
-JetBrains
 Jetbrains
+JetBrains
 jetbrains
 Jetstack
 Jfokus
@@ -1250,8 +1250,8 @@ JIRAs
 JIT
 Jitsu
 Jiu
-jks
 JKS
+jks
 JMX
 JmxConnectionHandler
 JmxNotificationClient
@@ -1294,8 +1294,8 @@ jumpbox
 jumpstart(s)?
 Junio
 Junit
-junit
 JUnit
+junit
 junky
 Jupyter(Hub|Lab)?
 JVASays
@@ -1327,8 +1327,8 @@ KCDC
 KEK(s)?
 Kendo
 kendrickcoleman
-keptn
 Keptn
+keptn
 Kerberos
 Kerievsky
 [Kk]ey[Ss]tore(s)?
@@ -1390,9 +1390,9 @@ KubeApps
 KubeCon
 KUBECONFIG
 [Kk]ubeconfig
+kubectl
 [kK]ubectl
 KUBECTL
-kubectl
 kubectx
 [kK]ubelet(-probe)?
 kubelet(s)?
@@ -1404,8 +1404,8 @@ Kubernetes-Secrets-Store-CSI-Driver
 kubernetes-vault-kms-plugin
 Kubernetes-wide
 [Kk]ubernetes(.|-native|-specific|-centric|-based|-related)?
-kubeseal
 Kubeseal
+kubeseal
 KUDO
 Kung
 kung
@@ -1577,8 +1577,8 @@ Minella
 Mini-Wheats
 [Mm]inibroker
 minideb
-[Mm]inikube('s)?
 MiniKube('s)?
+[Mm]inikube('s)?
 minimalistic
 Minio|MinIO
 minReplicas
@@ -1622,8 +1622,8 @@ MTU
 multibranch
 multicast
 [Mm]ulticloud
-multicluster
 Multicluster
+multicluster
 Multipass
 [Mm]ultitenan(t|cy)
 [Mm]ultiuser
@@ -1736,8 +1736,8 @@ olehdokuka
 OLGA_MACIASZEK
 [Oo]makase
 Omniplan
-On-Prem
 on-prem
+On-Prem
 onboarded
 [Oo]nboarding
 OneMagnify
@@ -1799,8 +1799,8 @@ overengineer(ing)?
 oversample
 [oO]versized
 OWASP
-OWIN
 Owin
+OWIN
 OWIN(-ize)?
 Özlü
 P2P
@@ -1864,8 +1864,8 @@ PersistentVolumeClaim|persistentvolumeclaim(s)?
 [Pp]et[Cc]linic
 PetaBridge
 petclinc
-PetClinic
 Petclinic
+PetClinic
 Petstore
 php-apache
 Pichler
@@ -1965,8 +1965,8 @@ Procfile(s)?
 Prodan
 production-deployable
 ProductPlan
-Profiler
 profiler
+Profiler
 Programadoras
 programmatically
 [Pp]rometheus
@@ -2229,8 +2229,8 @@ secretsmanager
 SecretTemplate
 SecretTemplates
 security-spring-security-xml
-securityContext
 SecurityContext
+securityContext
 SecurityExpressionOperations
 SecurityManager
 SecuritySocketAcceptorInterceptorConfiguration
@@ -2448,8 +2448,8 @@ TechRepublic
 TeeFilter
 Tekton-based
 Tekton('s)?
-TektonCD
 tektoncd
+TektonCD
 [Tt]elco(s)*
 telecom
 [Tt]elematics
@@ -2686,8 +2686,8 @@ WCF-TCP
 Weaveworks
 [Ww]eb[Hh]ook('s)?
 [wW]eb[sS]ervice(s)?
-webAPI
 WebAPI
+webAPI
 WebApiConfig
 WebApp
 webapp
@@ -2722,8 +2722,8 @@ whiteboard(ed|ing)
 [Ww]hitepaper
 Wilcock('s)?
 Wildfly
-Windows2012R2
 Windows2012r2
+Windows2012R2
 WinRM
 [Ww]ireframe(s)?
 WireMock
@@ -2760,8 +2760,8 @@ Y2ffgg
 yaml
 YAML|yaml
 Yaron
-YARP
 Yarp
+YARP
 YARP's
 yay
 YCombinator
