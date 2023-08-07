@@ -9,6 +9,7 @@ tags:
 - vSphere
 - Supervisor
 title: TKO on vSphere with Tanzu
+manualToc: true
 ---
 
 {{< readfile "/refarchs-include/tko-on-vsphere/tko-on-vsphere-with-tanzu-preamble.md" >}}

@@ -1,10 +1,26 @@
 <div id="page-meta-links" class="td-toc__inner">
 {{ partial "page-meta-links.html" . }}
 {{ if not .Params.notoc }}
-{{ with .TableOfContents }}
-{{ if ge (len .) 200 }}
+{{ if or (ge (len .TableOfContents) 200) (.Params.manualToc) }}
 <h5 class="mb-4">On This Page</h5>
-{{ . }}
+{{ if .Params.manualToc }}
+<script>
+$().ready(function() {
+    $metaLinks = $("#page-meta-links");
+    $headings = $("h2");
+    $metaLinks.append("<nav id='TableOfContents'<ul></ul>");
+    for (let i = 0; i < $headings.length; i++) {
+        const heading = $headings[i];
+        const id = heading.id;
+        const text = heading.innerText;
+        const link = "<li><a href='#" + id + "'>" + text + "</a></li>";
+        $metaLinks.find("nav").append(link);
+    }
+    console.log($headings);
+});
+</script>
+{{ else }}
+{{ .TableOfContents }}
 {{ end }}
 {{ end }}
 {{ end }}
