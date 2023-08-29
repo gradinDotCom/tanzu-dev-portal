@@ -1,11 +1,23 @@
 <div class='d-flex container flex-wrap'>
 
     <div class='sidebar col-lg-3 col-0 pl-0 pr-3'>
-        <h3>Filter</h3>
+        <h3>Technology</h3>
         <br/>
         <ul class='filters'>
-            <li class="filter active" filter="tkg">View all</li>
-            {{ partial "section-tags.html" . }}
+            <li class="filter active" filter="all">View all</li>
+            {{ partial "ra-product-tags.html" . }}
+        </ul>
+        <h3>Industry</h3>
+        <br/>
+        <ul class='filters'>
+            <li class="filter active" filter="all">View all</li>
+            {{ partial "ra-general-tags.html" . }}
+        </ul>
+        <h3>Architectural Pillars</h3>
+        <br/>
+        <ul class='filters'>
+            <li class="filter active" filter="all">View all</li>
+            {{ partial "ra-pillar-tags.html" . }}
         </ul>
     </div>
 
